@@ -2,10 +2,10 @@
 
 Run gRPC server
 ```
-cargo run --bin payments-server
+cargo run --bin hello-server
 ```
 
 Run gRPC client
 ```
-cargo run --bin payments-client
+cargo run --bin hello-client
 ```
